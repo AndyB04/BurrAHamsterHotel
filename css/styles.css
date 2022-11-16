@@ -1,5 +1,12 @@
-.navbar{
+.navbar {
     display: flex;
     justify-content: space-around;
-    color: #000324;
+    font-size: 40px;
+    background-color: #000324;
+    color: white;
 }
+
+bigPic {
+    background: url("../assets/hotelMarkupAssets/header.jpg");
+    
+} 
