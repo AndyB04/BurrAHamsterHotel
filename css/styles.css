@@ -1,11 +1,15 @@
 .navbar {
-    display: flex;
-    justify-content: space-around;
-    background-color: #000324;
-    color: white;
+    background: color #04ff04;;
 }
 
 bigPic {
     background: url("../assets/hotelMarkupAssets/header.jpg");
     
 } 
+smallPic{
+     size-adjust: url(../assets/hotelMarkupAssets/awardfinest.png);
+     size: 10%;
+}
+container-three{
+    background-image: url(../assets/hotelMarkupAssets/bg.jpg);
+}
